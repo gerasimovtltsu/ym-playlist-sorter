@@ -50,3 +50,6 @@ Once you have set up the program and run it, it will initiate the Yandex.Music c
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## Note
+My software does not allocate tracks on its own. All genres are taken from Yandex Music API. If you think that a track has a different genre - all questions to Yandex Music and artists.
