@@ -6,7 +6,7 @@ This repository contains a Python program called "Yandex Music Playlist Sorter" 
 
 Before running the program, make sure you have the following:
 
-- Python installed on your machine
+- Python (3.12.4 tested) installed on your machine
 - Yandex.Music account credentials
 - Yandex.Music API access token
 - User ID and Playlist ID for the "Liked" playlist
