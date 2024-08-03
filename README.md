@@ -1,6 +1,6 @@
 # Yandex Music Playlist Sorter
 
-This repository contains a Python program called "Genre Sorter" that allows you to sort tracks in your Yandex.Music "Liked" playlist based on their genres.
+This repository contains a Python program called "Yandex Music Playlist Sorter" that allows you to sort tracks in your Yandex.Music "Liked" playlist based on their genres.
 
 ## Prerequisites
 
